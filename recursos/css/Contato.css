@@ -1,0 +1,50 @@
+h1 {
+    text-align: left;
+    align-items: left;
+}
+
+body {
+    text-align: left align-items;
+    left text-decoration: underline
+}
+
+
+
+h1 {
+    text-align: center;
+    align-items: left;
+}
+
+
+a:visited {
+    color: rgb(0, 0, 0);
+    text-decoration: dotted;
+}
+
+
+
+
+div {
+    position: relative;
+    position: absolute;
+}
+
+a:hover {
+    color: rgb(34, 0, 255);
+    text-decoration: underline;
+}
+
+
+
+a:link {
+    color: rgb(34, 0, 255);
+    text-decoration: underline;
+}
+<div class="mb-3">
+  <label for="exampleFormControlInput1" class="form-label">Email address</label>
+  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+</div>
+<div class="mb-3">
+  <label for="exampleFormControlTextarea1" class="form-label">Example textarea</label>
+  <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+</div>

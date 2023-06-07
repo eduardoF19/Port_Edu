@@ -1,0 +1,42 @@
+h1 {
+    text-align: left;
+    align-items: left;
+}
+
+body {
+    text-align: left align-items;
+    left text-decoration: underline
+}
+
+
+
+h1 {
+    text-align: center;
+    align-items: left;
+}
+
+
+a:visited {
+    color: rgb(0, 0, 0);
+    text-decoration: dotted;
+}
+
+
+
+
+div {
+    position: relative;
+    position: absolute;
+}
+
+a:hover {
+    color: rgb(34, 0, 255);
+    text-decoration: underline;
+}
+
+
+
+a:link {
+    color: rgb(34, 0, 255);
+    text-decoration: underline;
+}
